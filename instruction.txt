@@ -1,0 +1,11 @@
+!warnings @username command to check warning count
+!clearwarnings @username command for administrators to reset warnings
+- Mention the bot and ask about "rules"
+- Ask about "warning system"
+- Get list of "commands"
+- Learn about "policies"
+- Type "help" to see available topics
+- @YourBotName help
+- @YourBotName rules
+- @YourBotName policies
+- @YourBotName warning system
